@@ -66,8 +66,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/GRE-YOURI/count.svg)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=GRE-YOURI&color=blue)
 
 <img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
