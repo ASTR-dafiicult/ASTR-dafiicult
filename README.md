@@ -1,3 +1,5 @@
+
+<!---------------------------------------------------------------------------------------------------------------------------------------->
 <!-- "Hero" Header -->
 <div align="center">
   <img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/welcome.png?raw=true" style="max-width: 800%;" alt="Welcome <coders> to my Github Profile" />
@@ -47,19 +49,32 @@
 <div align="center">
 <a href="https://github.com/issues/assigned"><img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/guestbook.svg"></a> 
 </div>
+<!---------------------------------------------------------------------------------------------------------------------->
 
-<!-- Guestbook -->
-<!--
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/bimocd"><img width="24" src="https://avatars.githubusercontent.com/u/71925280?s=24&u=cb78ea9a7ef631409bd516f7bdb6cfd243c64cf5&v=4" alt="bimocd" /> bimocd</a> |12/21/2025, 9:04:52 PM|wonder if markdown works|
-| <a href="https://github.com/meefs"><img width="24" src="https://avatars.githubusercontent.com/u/3507485?s=24&u=bc27c4316e44efce71ddd77e958f46eeec08198f&v=4" alt="meefs" /> meefs</a> |12/19/2025, 4:19:20 PM|Catch a new wave it's Everyone's Internet!  🏄🏼‍♀️🏄🏾‍♂️🏄🏻|
-| <a href="https://github.com/athenalee"><img width="24" src="https://avatars.githubusercontent.com/u/37987550?s=24&u=44d44820e775caa57094793e5b84c23390456fab&v=4" alt="athenalee" /> athenalee</a> |12/19/2025, 6:11:38 AM|:p|
-| <a href="https://github.com/akblount"><img width="24" src="https://avatars.githubusercontent.com/u/248504759?s=24&u=5c6295ca80409b81def44d843455ab2d0d8f0f2e&v=4" alt="akblount" /> akblount</a> |12/9/2025, 2:10:22 AM|👋🏽Hello everyone! Sending good energy to whoever reads this. You matter. ✨🌟|
-| <a href="https://github.com/Boopup"><img width="24" src="https://avatars.githubusercontent.com/u/99917823?s=24&u=f3856d1c25ed8f3ef4f6a5929a62e452376d73f8&v=4" alt="Boopup" /> Boopup</a> |12/6/2025, 5:41:07 PM|hello 👋|
-<!-- /Guestbook -->
+<h3 align="center">Passionate about coding and problem solving &&  Software Engineering </h3>
 
-<!-- Footer -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astr-dafiicult" alt="astr-dafiicult" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/dafiicult" target="blank"><img src="https://img.shields.io/twitter/follow/dafiicult?logo=twitter&style=for-the-badge" alt="dafiicult" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dafiicult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dafiicult" height="30" width="40" /></a>
+<a href="https://instagram.com/dafiicult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dafiicult" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@dfclt-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dfclt-h" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astr-dafiicult&show_icons=true&locale=en&layout=compact" alt="astr-dafiicult" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astr-dafiicult&show_icons=true&locale=en" alt="astr-dafiicult" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astr-dafiicult&" alt="astr-dafiicult" /></p>
+
+
+<!----------------------------------------------------------------------------------------------------------------------->
 
 <div align="center">
 
