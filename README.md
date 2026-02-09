@@ -5,7 +5,7 @@
   <img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/welcome.png?raw=true" style="max-width: 800%;" alt="Welcome <coders> to my Github Profile" />
   <br />
   <br />
-  <img height="80" alt="My Name is GRE-YOURI and i like software engineering" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/personal_note%20(1).svg" />
+  <img height="80" alt="The world runs on software — I’m here to write the parts that matter:D.”" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/personal_note%20(1).svg" />
   <br />
   <br />
 
