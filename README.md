@@ -63,9 +63,35 @@
 <a href="https://instagram.com/dafiicult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dafiicult" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DFCLT-H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dfclt-h" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/youri-cohen" target="_blank">
-  <img src="data:image/svg+xml;utf8,<svg width='200' height='60' viewBox='0 0 400 120' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='120' fill='%230A0F24' rx='12'/><g transform='translate(20,20)'><polygon points='0,0 10,0 25,40 10,80 0,80 15,40' fill='%2361DAFB'/><polygon points='45,0 55,0 40,40 55,80 45,80 30,40' fill='%2361DAFB'/></g><text x='100' y='75' font-family='Poppins, Arial, sans-serif' font-size='48' font-weight='700' fill='%23FFFFFF'>CodeWares</text></svg>"  alt="Codewars" width="30" /></a>
+  <img src=""  alt="Codewars" width="30" /></a>
 </p>
+<svg
+    width="200"
+    height="60"
+    viewBox="0 0 400 120"
+    xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background -->
+  <rect width="400" height="120" fill="#0A0F24" rx="12"/>
 
+  <!-- Icon: code brackets -->
+  <g transform="translate(20,20)">
+    <polygon points="0,0 10,0 25,40 10,80 0,80 15,40" fill="#61DAFB"/>
+    <polygon points="45,0 55,0 40,40 55,80 45,80 30,40" fill="#61DAFB"/>
+  </g>
+
+  <!-- Text -->
+  <text
+    x="100"
+    y="75"
+    font-family="Poppins, Arial, sans-serif"
+    font-size="48"
+    font-weight="700"
+    fill="#FFFFFF"
+  >
+    CodeWares
+  </text>
+</svg>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
