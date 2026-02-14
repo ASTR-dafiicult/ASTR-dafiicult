@@ -59,6 +59,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.codewars.com/users/youri-cohen" target="_blank">
+<img src="https://www.codewars.com/users/youri-cohen/badges/small" alt="Codewars" width="40"/></a>
 <a href="https://twitter.com/dafiicult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dafiicult" height="30" width="40" /></a>
 <a href="https://instagram.com/dafiicult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dafiicult" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DFCLT-H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dfclt-h" height="30" width="40" /></a>
