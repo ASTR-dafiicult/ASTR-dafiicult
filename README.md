@@ -63,7 +63,7 @@
 <a href="https://instagram.com/dafiicult" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dafiicult" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DFCLT-H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dfclt-h" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/youri-cohen" target="_blank">
-  <img src="file:///C:/Users/yoi/Downloads/codewars-svgrepo-com.svg" alt="Codewars" width="30" /></a>
+  <img src="data:image/svg+xml;utf8,<svg width='200' height='60' viewBox='0 0 400 120' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='120' fill='%230A0F24' rx='12'/><g transform='translate(20,20)'><polygon points='0,0 10,0 25,40 10,80 0,80 15,40' fill='%2361DAFB'/><polygon points='45,0 55,0 40,40 55,80 45,80 30,40' fill='%2361DAFB'/></g><text x='100' y='75' font-family='Poppins, Arial, sans-serif' font-size='48' font-weight='700' fill='%23FFFFFF'>CodeWares</text></svg>"  alt="Codewars" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
