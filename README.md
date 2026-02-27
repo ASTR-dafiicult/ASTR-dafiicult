@@ -84,7 +84,7 @@
 
 <!----------------------------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------->
-<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='400' width='900'>
+<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='400' width='600'>
 
 
 
@@ -124,6 +124,11 @@
 
 </div>
 
+<!------------------------->
+<div align="center">
+    <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=" alt="Thank you for visiting my profile!">
+</div>
+<!------------------------->
 
 <h1 align="center"></h1>
 
