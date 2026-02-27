@@ -72,7 +72,7 @@
 </p>
 
 
-[![My Languages](https://skillicons.dev/icons?i=py,js,java,bash,cpp)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=py,js,java,bash,cpp.c)](https://skillicons.dev)
 <br>
 [![My Tools](https://skillicons.dev/icons?i=aws,linux,git,postman,postgres,mysql,redis,flask,django,angular,nginx,selenium,vscode,atom,vim&perline=5)](https://skillicons.dev)
  
