@@ -86,7 +86,7 @@
 <!----------------------------------------------------->
 <img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='400' width='600'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jefftrojan&label=Profile%20views&color=0e75b6&style=flat"  alt="Jeff" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jefftrojan&label=Profile%20views&color=0e75b6&style=flat"  alt="Jeff" /> </p>
 
 
 <div align="center">
