@@ -105,76 +105,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-<!------------------------------------------------------>
-<canvas id="game" width="400" height="400" style="border:1px solid #000;"></canvas>
 
-<script>
-const canvas = document.getElementById('game');
-const ctx = canvas.getContext('2d');
-const grid = 20;
-let count = 0;
-let snake = [{x: 160, y: 160}];
-let dx = grid;
-let dy = 0;
-let food = {x: 320, y: 320};
-
-function getRandomFood() {
-  food.x = Math.floor(Math.random() * 20) * grid;
-  food.y = Math.floor(Math.random() * 20) * grid;
-}
-
-function loop() {
-  requestAnimationFrame(loop);
-  if (++count < 4) return; // slow down
-  count = 0;
-  
-  ctx.clearRect(0,0,canvas.width,canvas.height);
-
-  // move snake
-  let head = {x: snake[0].x + dx, y: snake[0].y + dy};
-  snake.unshift(head);
-
-  // eat food
-  if (head.x === food.x && head.y === food.y) {
-    getRandomFood();
-  } else {
-    snake.pop();
-  }
-
-  // draw food
-  ctx.fillStyle = 'red';
-  ctx.fillRect(food.x, food.y, grid-1, grid-1);
-
-  // draw snake
-  ctx.fillStyle = 'green';
-  snake.forEach((s,i) => {
-    ctx.fillStyle = `hsl(${i*10}, 70%, 50%)`; // rainbow effect
-    ctx.fillRect(s.x, s.y, grid-1, grid-1);
-  });
-
-  // wall collision
-  if(head.x < 0 || head.x >= canvas.width || head.y < 0 || head.y >= canvas.height) {
-    snake = [{x:160,y:160}]; dx = grid; dy = 0;
-  }
-
-  // self collision
-  for(let i=1;i<snake.length;i++){
-    if(head.x === snake[i].x && head.y === snake[i].y){
-      snake = [{x:160,y:160}]; dx = grid; dy = 0;
-    }
-  }
-}
-
-document.addEventListener('keydown', e => {
-  if(e.key === 'ArrowLeft' && dx===0){ dx=-grid; dy=0;}
-  if(e.key === 'ArrowUp' && dy===0){ dx=0; dy=-grid;}
-  if(e.key === 'ArrowRight' && dx===0){ dx=grid; dy=0;}
-  if(e.key === 'ArrowDown' && dy===0){ dx=0; dy=grid;}
-});
-
-loop();
-</script>
-<!---------------------------------------->
 <img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
