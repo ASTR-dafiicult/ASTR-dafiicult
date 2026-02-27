@@ -71,6 +71,7 @@
   <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg"  alt="Codewars" width="40" /></a>
 </p>
 
+h3 align="left">Languages and Tools:</h3>
 [![My Languages](https://skillicons.dev/icons?i=py,js,java,bash,cpp)](https://skillicons.dev)
 <br>
 [![My Tools](https://skillicons.dev/icons?i=aws,linux,git,postman,postgres,mysql,redis,flask,django,angular,nginx,selenium,vscode,atom,vim&perline=5)](https://skillicons.dev)
