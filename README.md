@@ -12,7 +12,7 @@
   <br />
   
   <div align="right">
-  <img width="100" height="600" src=https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/One%20Piece%20GIF.gif>
+  <img width="400" height="600" src=https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/One%20Piece%20GIF.gif>
   
   <br />
 
