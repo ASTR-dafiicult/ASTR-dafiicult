@@ -15,11 +15,11 @@
 </div>
 
 <!-- Social -->
-<table width="100%" align="center">
+<table width="200%" align="center">
 <tr>
 <td align="center">
 <a href="http://www.fiverr.com/s/DBejgGA">
-<strong>Visit my fiverr </strong>
+<strong>Visit my fiverr</strong>
 <br />
 <br />
 <br />
