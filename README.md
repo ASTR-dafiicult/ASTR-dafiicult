@@ -4,9 +4,7 @@
 <div align="center">
   <img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/welcome.png?raw=true" style="max-width: 800%;" alt="Welcome <coders> to my Github Profile" />
   <br />
-<div align="center">
-  <img width="720" height="auto" src=Add-ons/FSN.gif>
-</div>
+
   <br />
   <img height="80" alt="The world runs on software — I’m here to write the parts that matter:D.”" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/personal_note%20(1).svg" />
   <br />
@@ -119,3 +117,8 @@
 <img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
+
+
+<h1 align="center"></h1>
+
+[![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck)
