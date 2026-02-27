@@ -101,6 +101,11 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=GRE-YOURI&color=blue)
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 <img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
