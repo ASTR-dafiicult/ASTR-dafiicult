@@ -11,8 +11,8 @@
   <img height="80" alt="The world runs on software — I’m here to write the parts that matter:D.”" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/personal_note%20(1).svg" />
   <br />
   
-  <div align="left">
-  <img width="420" height="auto" src=https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/One%20Piece%20GIF.gif>
+  <div align="right">
+  <img width="600" height="300" src=https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/One%20Piece%20GIF.gif>
   
   <br />
 
