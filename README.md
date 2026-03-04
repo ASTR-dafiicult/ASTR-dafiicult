@@ -123,7 +123,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=GRE-YOURI&color=blue)
 
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/93725426-2c289e80-fbea-11ea-96a4-f6490ccf2126.png">
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">
 </p>
 
 <p align="center">
