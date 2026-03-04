@@ -56,7 +56,7 @@
 
 <h3 align="center">Passionate about coding and problem solving &&  Software Engineering </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astr-dafiicult" alt="astr-dafiicult" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/dafiicult" target="blank"><img src="https://img.shields.io/twitter/follow/dafiicult?logo=twitter&style=for-the-badge" alt="dafiicult" /></a> </p>
 
