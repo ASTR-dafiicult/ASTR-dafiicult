@@ -56,7 +56,11 @@
 
 <h3 align="center">Passionate about coding and problem solving &&  Software Engineering </h3>
 
-
+<!--##-->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DMS-ranil.DMS-ranil&left_color=forestgreen&right_color=yellow&left_text=My%20Visitor%20Count"  />
+</div>
+<!--##-->
 
 <p align="left"> <a href="https://twitter.com/dafiicult" target="blank"><img src="https://img.shields.io/twitter/follow/dafiicult?logo=twitter&style=for-the-badge" alt="dafiicult" /></a> </p>
 
