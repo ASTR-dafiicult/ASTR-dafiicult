@@ -119,12 +119,12 @@
 </svg>
 
 <!-------------------------------------------------------->
-<p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/93725426-2c289e80-fbea-11ea-96a4-f6490ccf2126.png">
-</p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=GRE-YOURI&color=blue)
 
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/93725426-2c289e80-fbea-11ea-96a4-f6490ccf2126.png">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
