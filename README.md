@@ -57,6 +57,8 @@
 <h3 align="center">Passionate about coding and problem solving &&  Software Engineering </h3>
 
 <!--##-->
+<h3 align="left">My Contributions</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph.svg">
