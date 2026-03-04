@@ -143,8 +143,8 @@
 </div>
 <!------------------------->
 
-[![David's github activity graph](https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/profile-night-rainbow.svg)](https://github.com/dmarsal90/github-readme-activity-graph)
+[![YOURI's github activity graph](https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/profile-night-rainbow.svg)](https://github.com/dmarsal90/github-readme-activity-graph)
   
  <!-- [![David's github activity graph](https://activity-graph.herokuapp.com/graph?username=dmarsal90&theme=xcode)](https://github.com/dmarsal90)-->
   
-  ![](https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/profile-night-rainbow.svg)
+  <!--![](https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/profile-night-rainbow.svg)
