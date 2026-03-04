@@ -57,9 +57,11 @@
 <h3 align="center">Passionate about coding and problem solving &&  Software Engineering </h3>
 
 <!--##-->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DMS-ranil.DMS-ranil&left_color=forestgreen&right_color=yellow&left_text=My%20Visitor%20Count"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph.svg">
+</picture>
 <!--##-->
 
 <p align="left"> <a href="https://twitter.com/dafiicult" target="blank"><img src="https://img.shields.io/twitter/follow/dafiicult?logo=twitter&style=for-the-badge" alt="dafiicult" /></a> </p>
