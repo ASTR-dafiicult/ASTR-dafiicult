@@ -7,6 +7,13 @@
   <br />
     <br>
     <img align="center"src = "https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width = "950">
+    <br>
+    <picture>
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/ASTR-dafiicult/READMENOW/main/pacman-contributions.svg">
+</picture>  
+  <br />
+
 <!-- Social -->
 <table width="200%" align="center">
 <tr>
