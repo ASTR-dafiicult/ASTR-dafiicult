@@ -3,6 +3,8 @@
 <!----<div align="center">
   <img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/welcome.png?raw=true" style="max-width: 800%;" alt="Welcome <coders> to my Github Profile" />
   -->
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:8B6144,100:C4A580&height=200&section=header&text=1337/42%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20and%20GNU/Linux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
   <!-------------
     <br>
@@ -10,8 +12,6 @@
     <br>
     -->
 
-  
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
   <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
 </p>
