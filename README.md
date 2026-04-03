@@ -7,13 +7,6 @@
   <br />
     <br>
     <img align="center"src = "https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width = "950">
-  <br />
-  <img height="80" alt="The world runs on software — I’m here to write the parts that matter:D.”" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/personal_note%20(1).svg" />
-  <br />
-  <br />
-
-</div>
-
 <!-- Social -->
 <table width="200%" align="center">
 <tr>
