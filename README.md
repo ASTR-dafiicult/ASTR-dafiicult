@@ -7,9 +7,6 @@
   <br />
     <br>
     <img align="center"src = "https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width = "950">
-  <div align="center">
-  <img width="720" height="auto" src=https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/FSN.gif>
-</div>
   <br />
   <img height="80" alt="The world runs on software — I’m here to write the parts that matter:D.”" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/personal_note%20(1).svg" />
   <br />
